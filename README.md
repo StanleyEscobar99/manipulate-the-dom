@@ -1,42 +1,44 @@
 # DOM Playground – JavaScript Practice
 
-## Description
-This project is a JavaScript DOM manipulation practice using HTML, CSS, and vanilla JavaScript.
+## Overview
 
-The page represents a fictional personal website for Dom Toretto. JavaScript is used to dynamically modify the DOM, respond to user interactions, and create new elements.
+This project is a JavaScript DOM manipulation exercise built with HTML, CSS, and vanilla JavaScript.
+
+The page represents a fictional personal website for Dom Toretto. JavaScript is used to dynamically update content, respond to user interaction, and manipulate the DOM in real time.
+
+---
+
+## Live Demo
+
+👉 https://stanleyescobar99.github.io/manipulate-the-dom/
 
 ---
 
 ## Technologies Used
+
 - HTML
 - CSS
 - JavaScript (Vanilla)
+- Git & GitHub
+- GitHub Pages
 
 ---
 
-## Features Implemented
-- Updating text content dynamically
-- Changing styles via JavaScript
-- Removing and adding DOM elements
-- Creating new blog posts dynamically
-- Event listeners (click, mouseenter, mouseout)
-- Random quote generator
-- DOM traversal and manipulation
+## Features
+
+- Updates page content using JavaScript
+- Changes styles through DOM manipulation
+- Adds/removes list items programmatically
+- Creates a new blog post dynamically
+- Random “Quote of the Day” generator on click
+- Mouse events to toggle blog post styles
+- Debugging using browser console + fixing runtime errors
 
 ---
 
-## How to Run the Project
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Interact with the page:
-   - Click **Quote of the Day** to generate a random quote
-   - Hover over blog posts to change colors
-   - View dynamically added cities and blog posts
+## How to Run Locally
 
----
-
-## Learning Goals
-- Practice DOM selection methods
-- Understand event handling
-- Create and manipulate elements dynamically
-- Reinforce JavaScript fundamentals
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/StanleyEscobar99/manipulate-the-dom.git
+   ```
