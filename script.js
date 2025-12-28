@@ -44,7 +44,7 @@ let ulEl = document.getElementById('favorite-things')
 ulEl.removeChild(ulEl.lastElementChild)
 }
 
-reomveLast ()
+removeLast ()
 
 
 
