@@ -42,3 +42,4 @@ The page represents a fictional personal website for Dom Toretto. JavaScript is 
    ```bash
    git clone https://github.com/StanleyEscobar99/manipulate-the-dom.git
    ```
+![DOM Playground Screenshot](images/manipulate-the-dom.png)
